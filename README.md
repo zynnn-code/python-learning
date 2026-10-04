@@ -11,3 +11,4 @@ I'm learning Python from scratch and these are my programs.
 - numbers.py - (works on numbers like float and integer)
 - discount.py - (works out the sale price and how much you save.)
 - packing.py - (works out how many full boxes an order needs and what's left over)
+- courier.py - (works out parcel size and delivery price by weight)
