@@ -14,3 +14,4 @@ I'm learning Python from scratch and these are my programs.
 - courier.py - (works out parcel size and delivery price by weight)
 - courier_batch.py - (takes many parcel weights in a loop and gives the total delivery cost)
 - for_loop.py - (print inside vs outside the loop)
+- price_table.py - (asks for a price and prints a 1–10 price table using a for loop)
