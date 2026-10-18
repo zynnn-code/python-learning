@@ -17,3 +17,4 @@ I'm learning Python from scratch and these are my programs.
 - price_table.py - (asks for a price and prints a 1–10 price table using a for loop)
 - lists.py - (lists: indexing, len, append and looping through a list)
 : - basket.py - (adds prices to a list until 0, then prints each item, the count and the total)
+- dicts.py - (dictionaries: look up by key, add/change, len, loop, KeyError)
