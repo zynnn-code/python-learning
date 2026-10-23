@@ -19,3 +19,4 @@ I'm learning Python from scratch and these are my programs.
 : - basket.py - (adds prices to a list until 0, then prints each item, the count and the total)
 - dicts.py - (dictionaries: look up by key, add/change, len, loop, KeyError)
 - till.py - (shop till: price list in a dictionary, checks items with "in", running total, tidies messy input)
+- functions.py - (def, calling, parameters, return vs print)
