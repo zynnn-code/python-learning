@@ -21,3 +21,4 @@ I'm learning Python from scratch and these are my programs.
 - till.py - (shop till: price list in a dictionary, checks items with "in", running total, tidies messy input)
 - functions.py - (def, calling, parameters, return vs print)
 - till2.py - (till rebuilt with my own functions: show_prices and clean)
+- sale.py - (discount calculator using my own function with two parameters)
