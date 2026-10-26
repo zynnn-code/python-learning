@@ -22,3 +22,4 @@ I'm learning Python from scratch and these are my programs.
 - functions.py - (def, calling, parameters, return vs print)
 - till2.py - (till rebuilt with my own functions: show_prices and clean)
 - sale.py - (discount calculator using my own function with two parameters)
+- files.py — practice: writing, appending and reading a text file ("w", "a", "r")
