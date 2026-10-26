@@ -23,3 +23,4 @@ I'm learning Python from scratch and these are my programs.
 - till2.py - (till rebuilt with my own functions: show_prices and clean)
 - sale.py - (discount calculator using my own function with two parameters)
 - files.py — practice: writing, appending and reading a text file ("w", "a", "r")
+- sales_log.py — (till that remembers every sale in sales.txt and prints the all-time total)
