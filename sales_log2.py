@@ -33,7 +33,11 @@ try:
     with open("sales.txt", "r") as f:
         for line in f:
             name = line.strip()
-            all_time = all_time + prices[name]
+            try:                
+                all_time = all_time + prices[name]
+            except KeyError:
+                print(f"Skipping bad line: '{name}'")    
+                      
 except FileNotFoundError:
     print("No sales yet")
 

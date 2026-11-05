@@ -24,3 +24,4 @@ I'm learning Python from scratch and these are my programs.
 - sale.py - (discount calculator using my own function with two parameters)
 - files.py — practice: writing, appending and reading a text file ("w", "a", "r")
 - sales_log.py — (till that remembers every sale in sales.txt and prints the all-time total)
+- sales_log2.py — (till that handles errors: no sales file yet, and skips bad lines in the file)
